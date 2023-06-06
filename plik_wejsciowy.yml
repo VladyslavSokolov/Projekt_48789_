@@ -1,0 +1,14 @@
+- name: Jakub 
+  age: 20
+  city: New York
+  hobbies:
+    - reading
+    - hiking
+    - cooking
+
+- name: Pawel
+  age: 19
+  city: Los Angeles
+  hobbies:
+    - painting
+    - swimming
