@@ -1,1 +1,1 @@
-pip install pyinstaller
+pyInstaller == 5.11.0
